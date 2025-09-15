@@ -1,28 +1,38 @@
 # World Stock Price Analysis Report
 
-## Objective
-Analyze global stock price trends, brand performance, sector growth, and stability across countries, brands, and industries using historical market data.
+## Project Overview
+This project analyzes global stock price trends, brand performance, sector growth, and market stability across countries, companies, and industries using historical stock market data. The dashboard provides interactive visualizations to explore price trends, top performers, and stable entities.
 
-## Key Findings
-- **Best Performing Country:** USA leads in price growth and volume across all quarters.
-- **Top Performing Companies:** Chipotle stand out for high daily returns and price stability.
-- **Most Stable Company:** Chipotle and Spotify shows consistently low volatility and steady moving averages.
-- **Best Performing Industries:** Cryptocurrency and Music sectors have top weekly prices and market activity.
+## Key Insights
+- **Best Performing Country:** United States (USA) leads in stock price growth and trading volume across all quarters.
+- **Top Performing Companies:** Chipotle demonstrate the highest average daily returns and stable price trajectories.
+- **Most Stable Company:** Chipotle and Spotify shows consistent stability with low volatility and steady moving averages.
+- **Best Performing Industries:** Cryptocurrency and Music sectors are the top performers with robust prices and market activity.
 
 ## Files
-- **World Stock analysis.csv:** Cleaned dataset ready for analysis.
-- **World stock price analysis report.xlsx:** Interactive dashboard report with charts and summary highlights.
+- **Interactive Excel Dashboard:** Download the [`World stock price analysis report.xlsx`](https://drive.google.com/drive/folders/1WnWjotLs6RnuY44INvYz2Qi01v3KXBDn?usp=sharing) from Google Drive due to file size limitations on GitHub.
+- **Cleaned Data (CSV):** The cleaned dataset is provided as a zipped CSV file: [`World Stock Analysis.zip`].
 
 ## How to Use
-- Open the Excel report for dashboard exploration.
-- Use slicers to filter by country, brand, or sector.
-- Review key insights in the summary boxes above the dashboard.
+- Open the Excel dashboard to interact with the data visualizations.
+- Use slicers to filter by Date, Brand_Name, and Industry_Tag.
+- Review key findings displayed in the summary boxes.
+- Use the CSV file for further analysis or custom computations outside Excel.
 
 ## Tools Used
-- Excel Power Query for cleaning and transformations
-- PivotTables/PivotCharts for analysis and visualization
-## Credits
-- Kaggle- World Stock Prices
+- Microsoft Excel (Power Query, PivotTables, PivotCharts)
+- Data cleaning and feature engineering done with Excel Power Query
 
-## About
-Authored by [Gourab Kumar Dash], Data analyst. For queries or detailed methodology, contact via LinkedIn.
+## About the Author
+This project was created by [Your Name], an aspiring data analyst focused on applying real-world datasets and Excel-based analytics for practical insights.
+
+## License
+This repository is open for educational and professional use. Please contact for permissions related to commercial use.
+
+---
+
+*Note:* The cleaned dataset CSV is large in size, so it is hosted on Google Drive to ensure accessibility and usability.
+
+---
+
+Feel free to replace `"your-google-drive-link"` with your actual public share link. This README provides a professional, clear introduction and usage guide, helping others navigate and use your project efficiently on GitHub.
