@@ -24,10 +24,11 @@ This project analyzes global stock price trends, brand performance, sector growt
 - Data cleaning and feature engineering done with Excel Power Query
 
 ## About the Author
-This project was created by [Your Name], an aspiring data analyst focused on applying real-world datasets and Excel-based analytics for practical insights.
+This project was created by Gourab Dash, a Data analyst focused on applying real-world datasets and Excel-based analytics for practical insights.
 
 ## License
-This repository is open for educational and professional use. Please contact for permissions related to commercial use.
+Taken the dataset from Kaggle 
+This repository is open for educational and professional use.
 
 ---
 
